@@ -11,11 +11,7 @@
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
 
-    <plugin name="cordova-plugin-console" source="npm" spec="~1.0.2" />
-
-    <plugin name="cordova-plugin-device" source="npm" spec="~1.1.1" />
-
-    <plugin name="cordova-plugin-splashscreen" source="npm" spec="~3.2.1" />
+   <preference name="phonegap-version" value="cli-9.0.0" />
 
     <plugin name="cordova-plugin-whitelist" source="npm" spec="~1.2.1" />
     <platform name="android">
